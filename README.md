@@ -1,2 +1,2 @@
-# studying-java
+# Studying JAVA
 Códigos produzidos em aulas
