@@ -9,3 +9,7 @@ r
 Bsrc/academy/studyingjava/javacore/Rdatas/test/LocalDateTest01.java,b\d\bdd175d6452abda27865a7c77395f4cdc561ea5b
 r
 Bsrc/academy/studyingjava/javacore/Rdatas/test/LocalTimeTest01.java,5\c\5cc95d3325e84934bbffa9c84a740f935116a852
+p
+@src/academy/studyingjava/javacore/Rdatas/test/InstantTest01.java,b\6\b6b72533c1f842f032e7113a48f1cacd33f1f8fd
+v
+Fsrc/academy/studyingjava/javacore/Rdatas/test/LocalDateTimeTest01.java,2\1\21d8cb3872f4b192c533558e684531188e944c9e
