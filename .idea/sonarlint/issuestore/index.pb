@@ -13,3 +13,15 @@ p
 @src/academy/studyingjava/javacore/Rdatas/test/InstantTest01.java,b\6\b6b72533c1f842f032e7113a48f1cacd33f1f8fd
 v
 Fsrc/academy/studyingjava/javacore/Rdatas/test/LocalDateTimeTest01.java,2\1\21d8cb3872f4b192c533558e684531188e944c9e
+q
+Asrc/academy/studyingjava/javacore/Rdatas/test/DurationTest01.java,6\d\6dd44314889220aa669418a3c2ca41b5731ce0f3
+o
+?src/academy/studyingjava/javacore/Rdatas/test/PeriodTest01.java,e\3\e37d3f614489b10d1e70d6d16ec34070fb28d258
+s
+Csrc/academy/studyingjava/javacore/Rdatas/test/ChronoUnitTest01.java,0\2\02906bd0902825f0bd626b10875566eb565d5d9f
+z
+Jsrc/academy/studyingjava/javacore/Rdatas/test/TemporalAdjustersTest01.java,4\7\4712ddf26261ca58b51ca80c16bfa7b76a273370
+y
+Isrc/academy/studyingjava/javacore/Rdatas/test/TemporalAdjusterTest01.java,6\5\6539cb3ca62ddf31dbf2b68a9458977ed2b30f57
+m
+=src/academy/studyingjava/javacore/Rdatas/test/ZoneTest01.java,7\3\735dea6480915ce15ef5f01407b3848582540bb3
