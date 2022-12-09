@@ -25,3 +25,5 @@ y
 Isrc/academy/studyingjava/javacore/Rdatas/test/TemporalAdjusterTest01.java,6\5\6539cb3ca62ddf31dbf2b68a9458977ed2b30f57
 m
 =src/academy/studyingjava/javacore/Rdatas/test/ZoneTest01.java,7\3\735dea6480915ce15ef5f01407b3848582540bb3
+
+Osrc/academy/studyingjava/javacore/Sformatacao/test/DateTimeFormatterTest01.java,5\3\53fbec5aa58db7032e368e23d6e37a45cc52afd4

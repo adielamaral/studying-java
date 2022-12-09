@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å“•±ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”Îùïùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»™Ÿšøÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(­º¡8
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æÓÍ™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÈúÉûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.( ç…
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É³ÉÕ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(üˆ°
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(®²¢¶
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ôŞÚóùÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(¤Ú‚ûùÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'javax.swing.text.DateFormatter'.(Øúã¾
